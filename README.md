@@ -1,4 +1,4 @@
-# todo-app (props and custom event)
+# todo-app-props-and-custom-event
 
 You can check the app here [Click Me](https://todo-app-props-custom-events.vercel.app/)
 
